@@ -558,8 +558,8 @@ const BAZA_PYTAN_TEKST = `
    d. Nie istnieje anonimowy twórca.
 
 89. Jakie kraje obejmuje porozumienie TRIPS?
-   a. Kraje Unii Europejskiej.
-   *b. Cały świat.
+   *a. Kraje Unii Europejskiej.
+   b. Cały świat.
    c. Kraje europejskie.
    d. Cały świat z wyjątkiem USA.
 
