@@ -562,7 +562,6 @@ const BAZA_PYTAN_TEKST = `
    *b. Cały świat.
    c. Kraje europejskie.
    d. Cały świat z wyjątkiem USA.
-Czym jest organizacja Creative Commons?
 
 90. Czym jest organizacja Creative Commons? Wybierz jedną odpowiedź:
   *a. Amerykańska organizacja typu non-profit, która postawiła sobie za zadanie uzyskanie kompromisu pomiędzy pełną ochroną praw autorskich a dzieleniem się twórczością z innymi.
